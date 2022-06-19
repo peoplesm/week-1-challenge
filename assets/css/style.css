@@ -81,7 +81,7 @@ main section {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;   
+    color: #ffffff;
 }
 
 main section img {
@@ -111,13 +111,13 @@ aside section {
 
 aside section h3 {
     margin-bottom: 10px;
-    text-align: center; 
+    text-align: center;
 }
 
 aside section img {
     display: block;
     margin: 10px auto;
-    max-width: 150px; 
+    max-width: 150px;
 }
 
 footer {
