@@ -9,7 +9,7 @@ Horiseon's web site was in a functioning state but the code needed refactoring t
 - Consolidated many class's to reduce unneeded reduncdancy in the css file
 - Added alt tags to images
 - Added titles to links and hero image
-- Added comments to HTML and CSS files to allow for quick interpritation of what parts of the code are directed toward.
+- Added comments to HTML and CSS files to allow for quick interpretation of what parts of the code are directed toward.
 
 ## Screenshot of Web Page
 
