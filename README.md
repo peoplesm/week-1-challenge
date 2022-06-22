@@ -1,5 +1,5 @@
 # Refactoring of Horiseon's Web Page
-Horiseon's web site was in a functioning state but the code needed refactoring to help meet accessability standards and better optimized for search engines. 
+Horiseon's web site was in a functioning state but the code needed refactoring to help meet accessability standards and be better optimized for search engines. 
 
 ## Changes to codebase to follow accessibility standards
 * Changed <divs> tags to proper symantic structure such as <section> and <nav>
